@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **Abhijithm02/Abhijithm02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,5 +12,50 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<link rel="stylesheet" href="devicon.min.css">
+<h1 id="name" align="center">
+  <!--Shows the user name on top-->
+  Abhijith M
+</h1>
 
-<div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/WFZvB7VIXBgiz3oDXE" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/stickers/iykra-pc-mac-laptop-WFZvB7VIXBgiz3oDXE">via GIPHY</a></p>
+<div id="header" align="center">
+  <!--Shows a gif below the name-->
+  <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="100"/>
+</div>
+
+<div id="badges" align="center">
+  <!--Shows all contact links in horizontal order-->
+  <a href="https://www.linkedin.com/in/abhijith-m-5bba77280">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</div>
+
+<h1>
+  <!--Greeting message with waving hand-->
+  Hi there
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
+
+## 🔍 About Me
+I am an aspiring Android App Developer, currently developing through *Kotlin*. Experienced with Web Development, contributing to several of my own personal web pages and projects.
+
+- 🔭 I’m currently working on android applications that supporting clients in other fields.
+- 🌱 I’m currently learning to develop with *Kotlin* through the *Android Studio*
+- 🙌 I’m looking to collaborate on projects related to Mobile and Web Development to gain experience.
+
+### 🛠️ Languages and Tools
+<div>
+ <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" title="Kotlin" alt="Kotlin" width="40" height="40"/>&nbsp;
+ <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+ <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+ <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+ <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>&nbsp;
+ <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python"  alt="Python" width="40" height="40"/>&nbsp;
+ <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" title="Python"  alt="Python" width="40" height="40"/>&nbsp;
+ <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
+</div>
+
+### ✨ My Stats
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Abhijithm02&theme=dark&background=000000)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abhijithm02&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
