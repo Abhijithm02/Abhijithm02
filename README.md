@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Hi 👋, I'm Abhijith M</h1>
-<h3 align="center">I am an aspiring Data Analyst, currently developing my skills in data analysis ans visualization . Experienced with Excel,power BI,python and SQL.</h3>
+<h3 align="center">Data Analyst</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhijithm02&label=Profile%20views&color=0e75b6&style=flat" alt="abhijithm02" /> </p>
 
@@ -38,5 +38,3 @@ Here are some ideas to get you started:
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhijithm02&show_icons=true&locale=en&layout=compact" alt="abhijithm02" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abhijithm02&show_icons=true&locale=en" alt="abhijithm02" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhijithm02&" alt="abhijithm02" /></p>
