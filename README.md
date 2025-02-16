@@ -41,7 +41,7 @@ I am an aspiring Data Analyst, currently developing my skills in data analysis a
 
 - 🔭 Currently working on real-world data analysis projects to sharpen my problem-solving and analytical skills.
 - 🌱 Actively learning Pandas and Tableau to enhance my ability to manipulate data and create compelling visualizations.
-- 🙌 I’m looking to collaborate on projects related to Mobile and Web Development to gain experience.
+- I am a front-end developer collaborating on mobile and web development projects, specializing in HTML, CSS, and JavaScript.
 
 ### 🛠️ Languages and Tools
 <div>
