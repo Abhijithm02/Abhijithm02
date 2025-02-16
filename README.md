@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 I am an aspiring Data Analyst, currently developing my skills in data analysis ans visualization . Experienced with Excel,power BI,python and SQL.
 
 - 🔭 Currently working on real-world data analysis projects to sharpen my problem-solving and analytical skills.
--  Actively learning Pandas and Tableau to enhance my ability to manipulate data and create compelling visualizations.
+- 🌱 Actively learning Pandas and Tableau to enhance my ability to manipulate data and create compelling visualizations.
 - 🙌 I’m looking to collaborate on projects related to Mobile and Web Development to gain experience.
 
 ### 🛠️ Languages and Tools
