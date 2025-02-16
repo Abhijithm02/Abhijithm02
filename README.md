@@ -37,10 +37,10 @@ Here are some ideas to get you started:
 </h1>
 
 ## 🔍 About Me
-I am an aspiring Android App Developer, currently developing through *Kotlin*. Experienced with Web Development, contributing to several of my own personal web pages and projects.
+I am an aspiring Data Analyst, currently developing my skills in data analysis ans visualization . Experienced with Excel,power BI,python and SQL.
 
-- 🔭 I’m currently working on android applications that supporting clients in other fields.
-- 🌱 I’m currently learning to develop with *Kotlin* through the *Android Studio*
+- 🔭 Currently working on real-world data analysis projects to sharpen my problem-solving and analytical skills.
+-  Actively learning Pandas and Tableau to enhance my ability to manipulate data and create compelling visualizations.
 - 🙌 I’m looking to collaborate on projects related to Mobile and Web Development to gain experience.
 
 ### 🛠️ Languages and Tools
