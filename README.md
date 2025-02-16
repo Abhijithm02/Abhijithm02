@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 -->
 <h1 align="center">Hi 👋, I'm Abhijith M</h1>
 <h3 align="center">Data Analyst</h3>
+<img align="right" alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fexplore%2Fanalytics&psig=AOvVaw0d5w6bEPx3NbG5aPeOX2Ts&ust=1739813693655000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCLDLwZ3dyIsDFQAAAAAdAAAAABAP.gif>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhijithm02&label=Profile%20views&color=0e75b6&style=flat" alt="abhijithm02" /> </p>
 
@@ -38,3 +39,4 @@ Here are some ideas to get you started:
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhijithm02&show_icons=true&locale=en&layout=compact" alt="abhijithm02" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abhijithm02&show_icons=true&locale=en" alt="abhijithm02" /></p>
+
