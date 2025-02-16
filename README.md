@@ -12,52 +12,31 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<link rel="stylesheet" href="devicon.min.css">
-<h1 id="name" align="center">
-  <!--Shows the user name on top-->
-  Abhijith M
-</h1>
+<h1 align="center">Hi 👋, I'm Abhijith M</h1>
+<h3 align="center">I am an aspiring Data Analyst, currently developing my skills in data analysis ans visualization . Experienced with Excel,power BI,python and SQL.</h3>
 
-<div id="header" align="center">
-  <!--Shows a gif below the name-->
-  <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="100"/>
-</div>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=abhijithm02&label=Profile%20views&color=0e75b6&style=flat" alt="abhijithm02" /> </p>
 
-<div id="badges" align="center">
-  <!--Shows all contact links in horizontal order-->
-  <a href="https://www.linkedin.com/in/abhijith-m-5bba77280">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-</div>
+- 🔭 I’m currently working on **real-world data analysis projects to sharpen my problem-solving and analytical skills.**
 
-<h1>
-  <!--Greeting message with waving hand-->
-  Hi there
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
+- 🌱 I’m currently learning **Pandas and Tableau to enhance my ability to manipulate data and create compelling visualizations.**
 
-## 🔍 About Me
-I am an aspiring Data Analyst, currently developing my skills in data analysis ans visualization . Experienced with Excel,power BI,python and SQL.
+- 👯 also collaborate on **web development projects, specializing in HTML, CSS, and JavaScript.**
 
-- 🔭 Currently working on real-world data analysis projects to sharpen my problem-solving and analytical skills.
-- 🌱 Actively learning Pandas and Tableau to enhance my ability to manipulate data and create compelling visualizations.
-- 💻 I am a front-end developer collaborating on mobile and web development projects, specializing in HTML, CSS, and JavaScript.
+- 👨‍💻 All of my projects are available at [datascienceportfol.io/abhijithm](datascienceportfol.io/abhijithm)
 
-### 🛠️ Languages and Tools
-<div>
-  <!--Icons of languages that I have studied/used-->
- <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" title="Kotlin" alt="Kotlin" width="40" height="40"/>&nbsp;
- <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
- <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
- <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
- <img src="https://github.com/devicons/devicon/blob/master/icons/Typescript/Typscript-original.svg" title="Typescript" alt="Typescript" width="40" height="40"/>&nbsp;
- <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python"  alt="Python" width="40" height="40"/>&nbsp;
- <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="SQL" **alt="SQL" width="40" height="40"/>&nbsp;
-</div>
+- 📫 How to reach me **mabhijith064@gmail.com**
 
-### ✨ My Stats
-<!--Display my Github statistics-->
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Abhijithm02&theme=dark&background=000000)](https://git.io/streak-stats)
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/abhijith-m-5bba77280?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/abhijith-m-5bba77280?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" height="30" width="40" /></a>
+</p>
 
-<!--Display my top languages used-->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abhijithm02&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhijithm02&show_icons=true&locale=en&layout=compact" alt="abhijithm02" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abhijithm02&show_icons=true&locale=en" alt="abhijithm02" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhijithm02&" alt="abhijithm02" /></p>
